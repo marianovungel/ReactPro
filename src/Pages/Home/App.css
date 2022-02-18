@@ -1,0 +1,16 @@
+.App {
+  margin: 0;
+  background-color: aqua;
+}
+
+#cadastro{
+  display: inline-table;
+}
+#button{
+  width: 500px;
+}
+#text{
+  width: 500px;
+}
+
+

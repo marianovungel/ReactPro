@@ -1,0 +1,10 @@
+#card{
+    transform: scale(0.96);
+}
+#card:hover{
+    transform: scale(1);
+    transition: 0.5s;
+}
+img{
+    width: 100%;
+}
